@@ -1,4 +1,4 @@
-name: build-opencode
+name: custom-docker-image
 
 on:
   push:
